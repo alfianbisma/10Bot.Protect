@@ -63,7 +63,7 @@ satpam1 = LINETCR.LINE() #
 satpam1.login(qr=True)
 satpam1.loginResult()
 
-print "login success bos"
+print 'login success bos'
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
