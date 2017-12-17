@@ -9,58 +9,58 @@ from gtts import gTTS
 
 
 cl = LINETCR.LINE() #
-cl.login(qr=True)
-#cl.login(token="EnmnMTbpZvKxjxElySae.QlCh5dGVXhTn8XJhYAOFpG.hlKu1rnaN3UmkrP7uU31wmTs1mt6pbY595lSIElp4tU=")#1
+#cl.login(qr=True)
+cl.login(token="EnmnMTbpZvKxjxElySae.QlCh5dGVXhTn8XJhYAOFpG.hlKu1rnaN3UmkrP7uU31wmTs1mt6pbY595lSIElp4tU=")#1
 cl.loginResult()
 
 ki = LINETCR.LINE() #
-ki.login(qr=True)
-#ki.login(token="EnC4WWaxlvwEmc7dcSP0.4CtAvksI2snhv2NVBSkYCa.K9u0pjo345g+5fss46dtUTn+LjHxqViO//X6+CKT0Ro=")#2
+#ki.login(qr=True)
+ki.login(token="EnC4WWaxlvwEmc7dcSP0.4CtAvksI2snhv2NVBSkYCa.K9u0pjo345g+5fss46dtUTn+LjHxqViO//X6+CKT0Ro=")#2
 ki.loginResult()
 
 kk = LINETCR.LINE() #
-kk.login(qr=True)
-#kk.login(token="EnZOZZ9kZ4WODDsqxs31.RF06i2MlCDf8zeGTj9WU0q.S+5zMf1Ulpeky0KBbMpiOog1bTqCXwxmYweJe8cMi90=")#3
+#kk.login(qr=True)
+kk.login(token="EnZOZZ9kZ4WODDsqxs31.RF06i2MlCDf8zeGTj9WU0q.S+5zMf1Ulpeky0KBbMpiOog1bTqCXwxmYweJe8cMi90=")#3
 kk.loginResult()
 
 kc = LINETCR.LINE() #
-kc.login(qr=True)
-#kc.login(token="EnXmBtomSJHCsdaFbZdf.W88yhLv5KB7iGCAeG9HatW.JpNZkvpWh/ILie0XwNxU1f6eZInAITSBteN8kOQQH3Q=")#4
+#kc.login(qr=True)
+kc.login(token="EnXmBtomSJHCsdaFbZdf.W88yhLv5KB7iGCAeG9HatW.JpNZkvpWh/ILie0XwNxU1f6eZInAITSBteN8kOQQH3Q=")#4
 kc.loginResult()
 
 ks = LINETCR.LINE() #
-ks.login(qr=True)
-#ks.login(token="Ene9Ti1iIrkwXqp9vard.RwYWimxkEVVSTgGwDES4Zq.XEmoYOqPwOjAv1q1DeUC+fPgTKlZrQM71+GmDW1yXXg=")#5
+#ks.login(qr=True)
+ks.login(token="Ene9Ti1iIrkwXqp9vard.RwYWimxkEVVSTgGwDES4Zq.XEmoYOqPwOjAv1q1DeUC+fPgTKlZrQM71+GmDW1yXXg=")#5
 ks.loginResult()
 
 k1 = LINETCR.LINE() #
-k1.login(qr=True)
-#k1.login(token="En8IS0miLXUQRK9D50b7.u8nse0mL8msEHLnmv4aB1W.Y9mRU7kZaH8hsUBV4KTpztvVF6YemjGZC9CtTLdZaFw=")#6
+#k1.login(qr=True)
+k1.login(token="En8IS0miLXUQRK9D50b7.u8nse0mL8msEHLnmv4aB1W.Y9mRU7kZaH8hsUBV4KTpztvVF6YemjGZC9CtTLdZaFw=")#6
 k1.loginResult()
 
 k2 = LINETCR.LINE() #
-k2.login(qr=True)
-#k2.login(token="En3DJV84kyxlnDxEUgu1.1syMstDSV3v24TYSaZhuGq.wnmv5YqJ2AD6eP9VlObpjho7+NgW1F/omh0DSd0jdfE=")#7
+#k2.login(qr=True)
+k2.login(token="En3DJV84kyxlnDxEUgu1.1syMstDSV3v24TYSaZhuGq.wnmv5YqJ2AD6eP9VlObpjho7+NgW1F/omh0DSd0jdfE=")#7
 k2.loginResult()
 
 k3 = LINETCR.LINE() #
-k3.login(qr=True)
-#k3.login(token="EnhD1jtFz3ZqmYc1Mwef.3prmqNlyijQkxY3rR/6PpW.NSIwoj99XE0PwmdZt/vC8LYvZSJad5x8sufNhgUMCe8=")#8
+#k3.login(qr=True)
+k3.login(token="EnhD1jtFz3ZqmYc1Mwef.3prmqNlyijQkxY3rR/6PpW.NSIwoj99XE0PwmdZt/vC8LYvZSJad5x8sufNhgUMCe8=")#8
 k3.loginResult()
 
 k4 = LINETCR.LINE() #
-k4.login(qr=True)
-#k4.login(token="En4xeP1I33q9RyICo3N4.rCBoqd8kZcG5lfgqkkRHva.DIAy/ldfCcUHUiBdzuVN4O5ec02tA9f3X9EKEGW2gng=")#9
+#k4.login(qr=True)
+k4.login(token="En4xeP1I33q9RyICo3N4.rCBoqd8kZcG5lfgqkkRHva.DIAy/ldfCcUHUiBdzuVN4O5ec02tA9f3X9EKEGW2gng=")#9
 k4.loginResult()
 
 k5 = LINETCR.LINE() #
-k5.login(qr=True)
-#k5.login(token="En4owc91dhuHipQNGKu1.2WTRlb8YIh0JVt5n/ZaU0q.9Y50ddvpinMlhC573QGWqGgPxnw6/7frBDn+55YOWTc=")#10
+#k5.login(qr=True)
+k5.login(token="En4owc91dhuHipQNGKu1.2WTRlb8YIh0JVt5n/ZaU0q.9Y50ddvpinMlhC573QGWqGgPxnw6/7frBDn+55YOWTc=")#10
 k5.loginResult()
 
 satpam1 = LINETCR.LINE() # 
-#satpam1.login(token="EnOSrXRDTndViSyfOlK8.sGVPEFXZ6i6+6rw8Kxi3Ua.puKa4M8/10ixNMfPO0r1K+X3VC7YM+XJigTgyBDZELc=")#satpam opo
-satpam1.login(qr=True)
+satpam1.login(token="EnOSrXRDTndViSyfOlK8.sGVPEFXZ6i6+6rw8Kxi3Ua.puKa4M8/10ixNMfPO0r1K+X3VC7YM+XJigTgyBDZELc=")#satpam opo
+#satpam1.login(qr=True)
 satpam1.loginResult()
 
 print 'login success bos'
